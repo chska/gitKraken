@@ -1,4 +1,5 @@
 Pierwszy wpis
 Wpis na gałezi master i Zmiana na galezi g001
 Pierwsza zmiana na gałęzi master
+Pierwsza zmiana na gałezi g002
 Druga zmiana na gałęzi master
