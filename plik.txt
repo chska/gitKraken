@@ -1,2 +1,2 @@
 Pierwszy wpis
-Wpis na gałezi master
+Wpis na gałezi master i Zmiana na galezi g001
