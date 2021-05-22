@@ -5,3 +5,4 @@ Pierwsza zmiana na gałezi g002
 Druga zmiana na gałęzi g003
 Zmiana która trochę trwa i będzie potrzebowała wiecej czasu.
 A tu szef niecnota mi przerywa
+Zmiana w github
